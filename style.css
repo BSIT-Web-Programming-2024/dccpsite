@@ -1,5 +1,8 @@
 body {
     background:rgb(41, 41, 94);
+     font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .container {
@@ -13,6 +16,5 @@ body {
 
 h1 {
     color: #404a91;
-    font-family: sans-serif;
 
 }
